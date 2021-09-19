@@ -19,3 +19,6 @@ spring:
 users:
   msg: "Default profile"
   email: "kontakt@piotrsarnecki.com"  
+springdoc:
+  swagger-ui:
+    path: "/swagger"
