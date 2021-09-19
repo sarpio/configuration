@@ -1,4 +1,4 @@
 info: Production
 spring:
   application:
-    name: users-service-prod
+    name: users-service
