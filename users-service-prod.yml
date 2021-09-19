@@ -20,4 +20,8 @@ spring:
 
 users:
   msg: "Production profile"
-  email: "kontakt@piotrsarnecki.com"  
+  email: "kontakt@piotrsarnecki.com"
+
+springdoc:
+  swagger-ui:
+    path: "/swagger"
