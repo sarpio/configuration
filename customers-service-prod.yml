@@ -2,7 +2,7 @@ spring:
   jackson:
     time-zone: Europe/Warsaw
   application:
-    name: users-service
+    name: customes-service
   datasource:
     url: jdbc:h2:mem:testdb
     driver-class-name: org.h2.Driver
